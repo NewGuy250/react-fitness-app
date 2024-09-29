@@ -1,0 +1,24 @@
+/*
+ Black-ish: #0b0c10
+ Blue-Grey: #1f2833
+ Light-grey: #c5c6c7
+ Cyan: #66fcf1
+ Dark-Cyan: #45A29E
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #1f2833;
+  font-family: Roboto;
+}
+
+.wrapper {
+  max-width: 70vw;
+  min-height: 4rem;
+  background-color: #1f2833;
+}
